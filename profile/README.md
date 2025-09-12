@@ -2,7 +2,7 @@
 
 We are a software & service company making great tools for developers and end users alike.
 
-## Our Products
+## Our Projects
 
 ### Akira
 
