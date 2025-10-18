@@ -1,4 +1,4 @@
-# This is Helium
+# This is Zephyra
 
 We are a software & service company making great tools for developers and end users alike.
 
@@ -12,5 +12,5 @@ Akira is a powerful image optimization and resizing tool that can be used by any
 
 We're always looking for ways to improve our products and provide better support for our users. If you have any questions or feedback, please don't hesitate to get in touch with us:
 
--   Website: [https://helium.ws](https://helium.ws)
--   Email: [support@helium.ws](mailto:support@helium.ws)
+-   Website: [https://zephyra.lol](https://zephyra.lol)
+-   Email: [support@zephyra.lol](mailto:support@zephyra.lol)
