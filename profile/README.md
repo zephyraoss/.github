@@ -4,9 +4,9 @@ We are a software & service company making great tools for developers and end us
 
 ## Our Projects
 
-### Akira
+### [poppy-pkgs](https://github.com/zephyraoss/poppy-pkgs)
 
-Akira is a powerful image optimization and resizing tool that can be used by anyone to enhance the visual appeal of their website or application. Whether you're a developer or an end user, Akira can quickly and easily optimize images for faster loading times and resize images to fit your needs.
+**poppy-pkgs** is a simple winget repository search indexer build in Go. It clones down the git objects and indexes every package in the official winget repository. This results in a far faster search experience than the official `winget` CLI provides you. You can find a hosted instance of the server at **pkgs.poppy.party**.
 
 ## Contact Us
 
